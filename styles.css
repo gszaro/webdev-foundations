@@ -1,0 +1,83 @@
+body {
+  font-family: "Red Hat Display", sans-serif;
+}
+/* Colors */
+.colors {
+  margin-bottom: 40px;
+}
+
+.color-box {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.blue-color {
+  background-color: #e74c3c;
+  width: 100px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+.green-color {
+  background-color: #e74c3c;
+  width: 100px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+.orange-color {
+  background-color: #e74c3c;
+  width: 100px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+/* Fonts */
+
+.fonts {
+  margin-bottom: 40px;
+}
+
+.font-style {
+  margin-bottom: 10px;
+}
+
+.element-style {
+  margin-bottom: 30px;
+}
+
+.body-font {
+  font-family: "Roboto", sans-serif;
+  margin: 50px auto;
+}
+
+.alt-font {
+  font-family: "Playfair Display", serif;
+  margin: 50px auto;
+}
+
+.code-font {
+  font-family: "Courier New", Courier, monospace;
+  margin: 50px auto;
+}
+
+.font-name {
+  font-size: large;
+}
+
+.plain {
+  font-weight: lighter;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.underlined {
+  text-decoration: underline;
+}
